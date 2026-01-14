@@ -5,7 +5,7 @@ PlacePicker is a simple and interactive web application that allows users to sel
 ---
 
 ## Website Link
-- https://final-countdown-jofn.onrender.com
+- https://place-picker-5f7o.onrender.com
 
 ---
 
